@@ -1,15 +1,41 @@
-## I'm some purple internet bunny dev that does things
+# Hi! I am Obi 
+am 23 years old and go by She/Her.
 
-# Usually works in:
-## C#
+
+<img alt="" src="https://veloxservers.lol/Assets/IMG/bnuuyIcon.png" height=32 width=32> I'm just some purple internet bunny dev that does things. 
+
+I recently started contributing to a game called HyperNex.
+
+### My interests:
+> - Cryptography
+> - Penetration Testing
+> - Bug Hunting
+> - Reverse Engineering
+> - VR
+> - Drawing
+
+### Can be found here:
+<a href="https://app.hackthebox.com/users/1539920">
+<img alt="" src="https://veloxservers.lol/Assets/IMG/htb-96.png" height=32 width=32>
+</a>
+
+<a href="https://bsky.app/profile/veloxservers.lol">
+<img alt="" src="https://veloxservers.lol/Assets/IMG/bluesky-96.png" height=32 width=32>
+</a>
+
+<a href="https://github.com/Obimydudee">
+<img alt="" src="https://veloxservers.lol/Assets/IMG/github-96.png" height=32 width=32>
+</a>
+
+## Usually works in:
+### C#
 > - .NET
 > - Mono
-## JavaScript
+### JavaScript
 > - NodeJS
-## Python
+### Python
 
-
-# Learning:
+## Learning:
 > - C
 > - C++
 > - ASM
@@ -18,9 +44,3 @@
 > - Golang
 > - Dart
 
-
-![Top Langs](https://github-readme-stats.vercel.app//api/top-langs/?username=Obimydudee&count_private=false&show_icons=true&bg_color=121212&title_color=7f00ff&text_color=cccccc&icon_color=ac07bf&border_color=7f00ff)
-
-<a href="https://github.com/Obimydudee/Obimydudee">
-<img alt="" src="https://komarev.com/ghpvc/?username=Obimydudee&style=flat-square&color=7a0de0">
-</a>
