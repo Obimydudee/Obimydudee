@@ -4,7 +4,7 @@
 
 
 
-# Decent in:
+# Usually works in:
 ## C#
 > - .NET
 > - Mono
