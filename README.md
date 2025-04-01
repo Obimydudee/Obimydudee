@@ -10,6 +10,7 @@
 > - Mono
 ## JavaScript
 > - NodeJS
+## Python
 
 
 # Learning:
