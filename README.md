@@ -16,15 +16,15 @@ I recently started contributing to a game called HyperNex.
 
 ### Can be found here:
 <a href="https://app.hackthebox.com/users/1539920">
-<img alt="" src="https://veloxservers.lol/Assets/IMG/htb-96.png" height=32 width=32>
+<img alt="" src="https://github.com/Obimydudee/Obimydudee/blob/main/icons/htb-32.png" height=32 width=32>
 </a>
 
 <a href="https://bsky.app/profile/veloxservers.lol">
-<img alt="" src="https://veloxservers.lol/Assets/IMG/bluesky-96.png" height=32 width=32>
+<img alt="" src="https://github.com/Obimydudee/Obimydudee/blob/main/icons/bluesky-32.png" height=32 width=32>
 </a>
 
 <a href="https://github.com/Obimydudee">
-<img alt="" src="https://veloxservers.lol/Assets/IMG/github-96.png" height=32 width=32>
+<img alt="" src="https://github.com/Obimydudee/Obimydudee/blob/main/icons/github-32.png" height=32 width=32>
 </a>
 
 ## Usually works in:
