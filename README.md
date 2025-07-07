@@ -36,8 +36,9 @@ am 23 years old and go by She/Her.
 ### Python
 
 ## Learning:
-> - C
-> - C++
+> - NextJS + Tailwind css
+> - React
+> - C/C++
 > - ASM
 
 ## Wanting to learn:
