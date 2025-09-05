@@ -35,6 +35,11 @@ am 23 years old and go by She/Her.
 > - NodeJS
 ### Python
 
+### Reverse Engineering with:
+> - IDA
+> - Ghidra
+> - Binary Ninja
+
 ## Learning:
 > - NextJS + Tailwind css
 > - React
@@ -43,5 +48,5 @@ am 23 years old and go by She/Her.
 
 ## Wanting to learn:
 > - Golang
-> - Dart
+> - Flutter
 
