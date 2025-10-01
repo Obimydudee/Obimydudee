@@ -43,6 +43,7 @@ am 23 years old and go by She/Her.
 ## Learning:
 > - NextJS + Tailwind css
 > - React
+> - Unreal Game Development
 > - C/C++
 > - ASM
 
