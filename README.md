@@ -35,19 +35,21 @@ am 24 years old and go by She/Her.
 > - NodeJS
 ### Python
 
+## Learning:
+> - ADA
+> - C/C++
+> - ASM
+> - Unreal Game Development
+
 ### Reverse Engineering with:
 > - IDA
 > - Ghidra
 > - Binary Ninja
 
-## Learning:
-> - NextJS + Tailwind css
-> - React
-> - Unreal Game Development
-> - C/C++
-> - ASM
+
 
 ## Wanting to learn:
 > - Golang
 > - Flutter
-
+> - NextJS + Tailwind css
+> - React
