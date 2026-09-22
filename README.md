@@ -1,5 +1,5 @@
 # Hi! I am Obi 
-A 24 years old who goes by She/Her.
+A 25 years old who goes by She/Her.
 
 
 <img alt="" src="https://github.com/Obimydudee/Obimydudee/blob/main/icons/bnuuyIcon.png" height=32 width=32> I'm just some purple bunny dev on the internet that does things. 
